@@ -101,6 +101,3 @@ form["comment"] = postcomment;
 		
 }
 
-
-// it was working before i changed anything
-// both codes are working
